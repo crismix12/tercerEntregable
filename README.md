@@ -1,6 +1,6 @@
 # tercerEntregable
 
-#rutas de usuario
+# rutas de usuario
 Obtener a un usuario por su id (GET): 
 'localhost:8000/api/v1/users/:id'
 
@@ -17,7 +17,7 @@ Agregar un curso a un usuario (POST):
 Actualizar un usuario(PUT):
 'localhost:8000/api/v1/users/:id'
 
-#rutas de cursos
+# rutas de cursos
 Obtener todos los cursos(GET):
 'localhost:8000/api/v1/courses'
 
@@ -33,14 +33,14 @@ Crear un nuevo curso(POST):
 Editar un curso
 localhost:8000/api/v1/courses/:id'
 
-#rutas videos
+# rutas videos
 Crear video(POST):
 'localhost:8000/api/v1/videos'
 
 Eliminar video(DELETE):
 'localhost:8000/api/v1/videos/:id'
 
-#rutas Categorias
+# rutas Categorias
 Crear categoria(POST):
 'localhost:8000/api/v1/categories'
 
