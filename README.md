@@ -11,7 +11,8 @@ Crear un usuario (POST):
 'localhost:8000/api/v1/users'
 
 Agregar un curso a un usuario (POST):
-'localhost:8000/api/v1/users/:courseId' \n
+'localhost:8000/api/v1/users/:courseId'
+
 !Requiere Body: { "userId": X);
 
 Actualizar un usuario(PUT):
